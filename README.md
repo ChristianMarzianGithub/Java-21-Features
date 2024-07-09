@@ -25,3 +25,5 @@ Lists with exact order and methods, that you can use to get for example the last
 </br>
 </br>
 6.) Key Encapsulation Mechanism Api
+It can be used to send a public key for example.
+
